@@ -1,8 +1,14 @@
 # Semana 13 - Biblioteca API
 
-Proyecto desarrollado con Spring Boot utilizando arquitectura por capas y PostgreSQL.
+Proyecto desarrollado con **Spring Boot**, **Spring Data JPA**, **PostgreSQL**, **HTML**, **CSS** y **JavaScript**.
+
+El sistema permite administrar una biblioteca personal mediante una API REST y una interfaz web integrada dentro del mismo proyecto.
+
+---
 
 ## Tecnologías utilizadas
+
+### Backend
 
 - Java
 - Spring Boot
@@ -10,7 +16,23 @@ Proyecto desarrollado con Spring Boot utilizando arquitectura por capas y Postgr
 - Spring Data JPA
 - PostgreSQL
 - Maven
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Fetch API
+
+### Herramientas
+
+- IntelliJ IDEA
+- pgAdmin 4
 - Postman
+- Git
+- GitHub
+
+---
 
 ## Base de datos
 
